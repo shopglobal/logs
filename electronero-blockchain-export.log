@@ -1,0 +1,16 @@
+2018-06-28 12:42:21.195	    7fb516e94780	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO
+2018-06-28 12:42:21.196	    7fb516e94780	INFO 	logging	contrib/epee/src/mlog.cpp:185	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO,logging:INFO,msgwriter:INFO,bcutil:INFO
+2018-06-28 12:42:21.196	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:112	Starting...
+2018-06-28 12:42:21.197	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:138	Export output file: /root/.electronero/export/blockchain.raw
+2018-06-28 12:42:21.197	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:151	Initializing source blockchain (BlockchainDB)
+2018-06-28 12:42:21.200	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:162	database: lmdb
+2018-06-28 12:42:21.201	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:168	Loading blockchain from folder /root/.electronero/lmdb ...
+2018-06-28 12:42:21.844	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:181	Source blockchain storage initialized OK
+2018-06-28 12:42:21.844	    7fb516e94780	WARN 	bcutil	src/blockchain_utilities/blockchain_export.cpp:182	Exporting blockchain raw data...
+2018-06-28 12:42:21.844	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:271	Storing blocks raw data...
+2018-06-28 12:42:21.849	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:346	bootstrap file recognized
+2018-06-28 12:42:21.850	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:356	bootstrap::file_info size: 4
+2018-06-28 12:42:21.850	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:367	bootstrap file v0.1
+2018-06-28 12:42:21.850	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:368	bootstrap magic size: 4
+2018-06-28 12:42:21.850	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:369	bootstrap header size: 1024
+2018-06-28 12:42:21.851	    7fb516e94780	INFO 	bcutil	src/blockchain_utilities/bootstrap_file.cpp:466	Scanning blockchain from bootstrap file...
